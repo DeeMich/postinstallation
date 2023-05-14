@@ -31,25 +31,43 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3MdSUZ9.png" height="80%" width="80%" alt="Agents"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+First I added "Supreme Admin" as an Agent Role
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/T2tPLCA.png" height="80%" width="80%" alt="SysAdmin"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Then I configured departments to place a Systems Adminstrators
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZUN54Jp.png" height="80%" width="80%" alt="Agentsadd"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next I created 2 agents. 
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/CNluu0u.png" height="80%" width="80%" alt="Agentsadd"/>
+</p>
+<p>
+Then I managed SLA and had Sev-A (1 hour 24/7), Sev-B (4 hours 24/7), and Sev-C (8 business hours) as options.  
+</p>
+<br />
+<p>
+  Then I created 4 Help Topics within the Admin Panel. 
+ i. Business Critical Outage
+ii. Personal Computer Issues
+iii. Equipment Request
+iv. Password Reset
+</p>
+<p>
+<img src="https://i.imgur.com/s1Fa16a.png" height="80%" width="80%" alt="HelpTopics"/>
+</p>
